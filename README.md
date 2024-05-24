@@ -2,7 +2,7 @@
 
 ## Overview
 
-TK Read is an application for queueing and renting e-books.
+TK Read is an application for renting e-books.
 
 ## User Story
 
