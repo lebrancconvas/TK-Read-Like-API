@@ -30,6 +30,10 @@ As an Admin, I can update an information of the book on the application.
 
 As an Admin, I can remove books from the application.
 
+### Story 07
+
+As a User, I can search the book I want by word and matching to books that include the word on its name.
+
 ## Schema
 
 ### User Schema
